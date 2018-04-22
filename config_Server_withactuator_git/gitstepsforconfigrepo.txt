@@ -1,0 +1,7 @@
+git init
+git add config-client.properties
+git commit -m config-client.properties
+
+
+got tp postman hit post request
+http://localhost:8888/actuator/refresh
